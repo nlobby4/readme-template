@@ -97,8 +97,9 @@ the repository as a ZIP file.
 ### B. Start a New Repository
 
 This repository is marked as a **template**, which allows you to select it as
-one when creating a new repository via GitHub. This will result in all the
-contained files being copied to your new repository.
+one when creating a new repository within the organization via GitHub.
+For external collaborators, you can use the **Use this template** button located
+at the top right of this repository's page.
 
 <p align="right">[<a href="#readme-top">back to top</a>]</p>
 

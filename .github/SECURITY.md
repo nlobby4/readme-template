@@ -14,7 +14,7 @@ If you discover a security vulnerability, exploit, or any potentially harmful
 behavior in this project, **please do not open a public issue**. Instead, report
 it **privately** using GitHub Private Vulnerability Reporting:
 
-Open a private report from this repository's **Security** tab using **Report a
+Open a private report from this repository's **Issues** tab using **Report a
 vulnerability**.
 
 If you cannot use GitHub private reporting, use one of the following channels:

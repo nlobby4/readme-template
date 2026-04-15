@@ -24,16 +24,12 @@
 <!-- ? Description -->
 <!-- TODO: Create a short repository description -->
 
-<p align="center">
-
 This repository is a bare bones template for creating clean and consistent
 repositories across the entire nlobby4 codebase. It includes reusable
 resources like issue templates, contributing guidelines, and other common
 Markdown files. Please check out the other
 [templates]("https://github.com/orgs/nlobby4/repositories?q=template%3Atrue+archived%3Afalse")
 first to see if there is already a more specific template that suits your needs.
-
-</p>
 
 <!-- ? ############################################### -->
 <!-- ? URLs -->

@@ -16,6 +16,7 @@ Please follow these guidelines to ensure a smooth contribution process:
 
 - **Fork the repository** and create your branch from `main`.
 - **Use the dev container** during development if it is provided.
+- **Use [conventional commit](https://www.conventionalcommits.org/)** messages
 - **Open a pull request** with a clear description of your changes.
 - **Add tests** for new features or bug fixes when possible.
 - **Follow the [Code of Conduct](./CODE_OF_CONDUCT.md)**

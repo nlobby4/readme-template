@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=https://json.schemastore.org/github-issue-forms.json
+name: Ask a question
+description: Ask a question about the project
+title: "[QUESTION] <title>"
+type: Question
+labels:
+  - question
+assignees:
+  - exquz3me
+body:
+  - type: textarea
+    id: question
+    attributes:
+      label: Question
+      description: |
+        Ask anything related to the project.
+
+        NOTE: Before submitting, please search for duplicate or closed questions.
+    validations:
+      required: true

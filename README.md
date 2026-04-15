@@ -16,7 +16,11 @@
 
 ![nlobby4][logo]![banner][banner]
 
-![founded][founded] ![npm][npm] ![website][website] ![discord][discord] ![flockmod][flockmod]
+[![founded][founded]](https://github.com/nlobby4)
+[![npm][npm]](https://www.npmjs.com/org/nlobby4)
+[![website][website]](https://nlobby4.org)
+[![discord][discord]](https://discord.gg/flockmod/)
+[![flockmod][flockmod]](https://flockmod.com/r/nlobby4)
 
 </h1>
 

@@ -35,6 +35,6 @@ Please follow these guidelines to ensure a smooth contribution process:
 <!-- ? ############################################# -->
 <!-- ? References -->
 
-[logo]: https://raw.githubusercontent.com/nlobby4/organization/refs/heads/main/project/repo/contributing/logo-contributing.png
-[banner]: https://raw.githubusercontent.com/nlobby4/organization/refs/heads/main/project/repo/contributing/banner-contributing.png
-[footer]: https://raw.githubusercontent.com/nlobby4/organization/refs/heads/main/project/repo/contributing/footer-contributing.png
+[logo]: https://media.githubusercontent.com/media//nlobby4/organization/refs/heads/main/project/repo/contributing/logo-contributing.png
+[banner]: https://media.githubusercontent.com/media//nlobby4/organization/refs/heads/main/project/repo/contributing/banner-contributing.png
+[footer]: https://media.githubusercontent.com/media//nlobby4/organization/refs/heads/main/project/repo/contributing/footer-contributing.png

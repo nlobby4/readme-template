@@ -36,6 +36,6 @@ For urgent matters or if you are unsure where to ask, refer to the
 <!-- ? ############################################# -->
 <!-- ? References -->
 
-[logo]: https://raw.githubusercontent.com/nlobby4/organization/refs/heads/main/project/repo/support/logo-support.png
-[banner]: https://raw.githubusercontent.com/nlobby4/organization/refs/heads/main/project/repo/support/banner-support.png
-[footer]: https://raw.githubusercontent.com/nlobby4/organization/refs/heads/main/project/repo/support/footer-support.png
+[logo]: https://media.githubusercontent.com/media//nlobby4/organization/refs/heads/main/project/repo/support/logo-support.png
+[banner]: https://media.githubusercontent.com/media//nlobby4/organization/refs/heads/main/project/repo/support/banner-support.png
+[footer]: https://media.githubusercontent.com/media//nlobby4/organization/refs/heads/main/project/repo/support/footer-support.png

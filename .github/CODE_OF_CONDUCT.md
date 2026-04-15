@@ -41,6 +41,6 @@ For the full policy, see the
 <!-- ? ############################################# -->
 <!-- ? References -->
 
-[logo]: https://raw.githubusercontent.com/nlobby4/organization/refs/heads/main/project/repo/conduct/logo-conduct.png
-[banner]: https://raw.githubusercontent.com/nlobby4/organization/refs/heads/main/project/repo/conduct/banner-conduct.png
-[footer]: https://raw.githubusercontent.com/nlobby4/organization/refs/heads/main/project/repo/conduct/footer-conduct.png
+[logo]: https://media.githubusercontent.com/media//nlobby4/organization/refs/heads/main/project/repo/conduct/logo-conduct.png
+[banner]: https://media.githubusercontent.com/media//nlobby4/organization/refs/heads/main/project/repo/conduct/banner-conduct.png
+[footer]: https://media.githubusercontent.com/media//nlobby4/organization/refs/heads/main/project/repo/conduct/footer-conduct.png

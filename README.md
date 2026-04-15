@@ -42,11 +42,11 @@ first to see if there is already a more specific template that suits your needs.
 <!-- TODO: Update the urls -->
 
 <div align="center">
-  <span style="display: inline-block; margin: 0 0.5em;">ⓘ <a href="https://nlobby4.org/news/">[NEWS]</a></span>
-  <span style="display: inline-block; margin: 0 0.5em;">🖂 <a href="mailto:contact@nlobby4.org">[CONTACT]</a></span>
-  <span style="display: inline-block; margin: 0 0.5em;">🖿 <a href="https://nlobby4.github.io/readme-template/">[DEMO]</a></span>
-  <span style="display: inline-block; margin: 0 0.5em;">★ <a href="https://github.com/nlobby4/readme-template/issues/new?template=feature.yml">[REQUEST FEATURE]</a></span>
-  <span style="display: inline-block; margin: 0 0.5em;">&#x26A0;&#xFE0E; <a href="https://github.com/nlobby4/readme-template/issues/new?template=bug.yml">[REPORT BUG]</a></span>
+  <span>ⓘ <a href="https://nlobby4.org/news/">[NEWS]</a></span>
+  <span> 🖂 <a href="mailto:contact@nlobby4.org">[CONTACT]</a></span>
+  <span> 🖿 <a href="https://nlobby4.github.io/readme-template/">[DEMO]</a></span>
+  <span> ★ <a href="https://github.com/nlobby4/readme-template/issues/new?template=feature.yml">[REQUEST FEATURE]</a></span>
+  <span> &#x26A0;&#xFE0E; <a href="https://github.com/nlobby4/readme-template/issues/new?template=bug.yml">[REPORT BUG]</a></span>
 </div>
 
 <br>

@@ -135,7 +135,7 @@ changes you need to make:
 ---
 
 <!-- ? ############################################# -->
-<!-- ? footer -->
+<!-- ? Footer -->
 
 <div align="right">
 

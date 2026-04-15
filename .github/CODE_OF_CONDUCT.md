@@ -30,7 +30,7 @@ For the full policy, see the
 ---
 
 <!-- ? ############################################# -->
-<!-- ? footer -->
+<!-- ? Footer -->
 
 <div align="right">
 

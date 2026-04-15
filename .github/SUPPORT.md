@@ -25,7 +25,7 @@ For urgent matters or if you are unsure where to ask, refer to the
 ---
 
 <!-- ? ############################################# -->
-<!-- ? footer -->
+<!-- ? Footer -->
 
 <div align="right">
 

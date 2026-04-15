@@ -24,7 +24,7 @@ Please follow these guidelines to ensure a smooth contribution process:
 ---
 
 <!-- ? ############################################# -->
-<!-- ? footer -->
+<!-- ? Footer -->
 
 <div align="right">
 

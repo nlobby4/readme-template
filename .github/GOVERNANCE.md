@@ -25,7 +25,7 @@ community involvement. Key points:
 ---
 
 <!-- ? ############################################# -->
-<!-- ? footer -->
+<!-- ? Footer -->
 
 <div align="right">
 

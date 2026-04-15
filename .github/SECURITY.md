@@ -30,7 +30,7 @@ If you're unsure who to contact, please refer to the current list of
 ---
 
 <!-- ? ############################################# -->
-<!-- ? footer -->
+<!-- ? Footer -->
 
 <div align="right">
 

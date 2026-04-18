@@ -14,7 +14,10 @@
 
 Please follow these guidelines to ensure a smooth contribution process:
 
-- **Fork the repository** and create your branch from `main`.
+- **Fork the repository** and create your feature branch from `main`, or
+  create a branch directly if you have write access to the repository.
+  Use the conventional branch naming format matching your commit type:
+  `type/short-description`.
 - **Use the dev container** during development if it is provided.
 - **Use [conventional commit](https://www.conventionalcommits.org/)** messages
 - **Open a pull request** with a clear description of your changes.

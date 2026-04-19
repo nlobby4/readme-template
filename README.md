@@ -91,6 +91,7 @@ or [download](https://github.com/nlobby4/readme-template/archive/refs/heads/main
 the repository as a ZIP file.
 
 > [!IMPORTANT]
+>
 > Do not clone this repository directly,
 > unless you want to commit to this repository itself
 
@@ -127,6 +128,7 @@ changes you need to make:
 | `.github/ISSUE_TEMPLATES` | Update assignees in every issue template        |
 
 > [!TIP]
+>
 > You can remove the `LICENSE` file if you are setting up a private repository
 > and don't plan on publishing your code.
 

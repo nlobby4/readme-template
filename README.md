@@ -148,9 +148,9 @@ changes you need to make:
 <!-- ? ############################################# -->
 <!-- ? References -->
 
-[logo]: https://media.githubusercontent.com/media//nlobby4/organization/refs/heads/main/project/repo/readme/logo-readme.png
-[banner]: https://media.githubusercontent.com/media//nlobby4/organization/refs/heads/main/project/repo/readme/banner-readme.png
-[footer]: https://media.githubusercontent.com/media//nlobby4/organization/refs/heads/main/project/repo/readme/footer-readme.png
+[logo]: https://media.githubusercontent.com/media/nlobby4/organization/refs/heads/main/project/repo/readme/logo-readme.png
+[banner]: https://media.githubusercontent.com/media/nlobby4/organization/refs/heads/main/project/repo/readme/banner-readme.png
+[footer]: https://media.githubusercontent.com/media/nlobby4/organization/refs/heads/main/project/repo/readme/footer-readme.png
 [founded]: https://img.shields.io/badge/founded:2024-black?logo=github
 [npm]: https://img.shields.io/badge/npm%20packages-black?logo=npm&color=000000
 [website]: https://img.shields.io/badge/nlobby4.org-black?logo=firefoxbrowser&logoColor=white&color=000000

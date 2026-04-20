@@ -31,15 +31,17 @@
 This repository is a bare bones template for creating clean and consistent
 repositories across the entire nlobby4 codebase. It includes reusable
 resources like issue templates, contributing guidelines, and other common
-Markdown files. Please check out the other
-[templates]("https://github.com/orgs/nlobby4/repositories?q=template%3Atrue+archived%3Afalse")
+Markdown files.
+
+Please check out the other
+[templates](https://github.com/orgs/nlobby4/repositories?q=template%3Atrue+archived%3Afalse)
 first to see if there is already a more specific template that suits your needs.
 
 <!-- ? ############################################### -->
 <!-- ? URLs -->
 <!-- markdownlint-disable MD013 -->
 
-<!-- TODO: Update the urls -->
+<!-- TODO: Update the URLs below to match your repository -->
 
 <div align="center">
   <span>ⓘ <a href="https://nlobby4.org/news/">[NEWS]</a></span>
@@ -81,7 +83,7 @@ first to see if there is already a more specific template that suits your needs.
 
 ## Usage
 
-In general there are two ways to utilize this repository:
+There are two ways to use this template:
 
 ### A. Copy to an Existing Repository
 
@@ -92,15 +94,15 @@ the repository as a ZIP file.
 
 > [!IMPORTANT]
 >
-> Do not clone this repository directly,
-> unless you want to commit to this repository itself
+> Do not clone this repository directly unless you intend to contribute to the
+> template itself.
 
 ### B. Start a New Repository
 
-This repository is marked as a **template**, which allows you to select it as
-one when creating a new repository within the organization via GitHub.
-For external collaborators, you can use the **Use this template** button located
-at the top right of this repository's page.
+This repository is marked as a **template**, which allows you to select it when
+creating a new repository within the organization via GitHub. For external
+collaborators, use the **Use this template** button at the top right of this
+page.
 
 <p align="right">[<a href="#readme-top">back to top</a>]</p>
 
@@ -121,6 +123,7 @@ changes you need to make:
 | `README.md`               | Update contents                                 |
 | `LICENSE`                 | [Choose a license](https://choosealicense.com/) |
 | `AUTHORS`                 | Add project authors                             |
+| `ARCHITECTURE.md`         | Create the architecture documentation           |
 | `.gitignore`              | Update ignored files to match your project      |
 | `.gitattributes`          | Update line ending settings if needed           |
 | `.github/CODEOWNERS`      | Add code owners                                 |

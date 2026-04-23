@@ -36,6 +36,9 @@ community involvement. Key points:
 <!-- ? ############################################# -->
 <!-- ? References -->
 
-[logo]: https://media.githubusercontent.com/media/nlobby4/organization/refs/heads/main/project/repo/governance/logo-governance.png
-[banner]: https://media.githubusercontent.com/media/nlobby4/organization/refs/heads/main/project/repo/governance/banner-governance.png
-[footer]: https://media.githubusercontent.com/media/nlobby4/organization/refs/heads/main/project/repo/governance/footer-governance.png
+[logo]:
+  https://media.githubusercontent.com/media/nlobby4/organization/refs/heads/main/project/repo/governance/logo-governance.png
+[banner]:
+  https://media.githubusercontent.com/media/nlobby4/organization/refs/heads/main/project/repo/governance/banner-governance.png
+[footer]:
+  https://media.githubusercontent.com/media/nlobby4/organization/refs/heads/main/project/repo/governance/footer-governance.png

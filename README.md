@@ -29,9 +29,8 @@
 <!-- TODO: Create a short repository description -->
 
 This repository is a bare bones template for creating clean and consistent
-repositories across the entire nlobby4 codebase. It includes reusable
-resources like issue templates, contributing guidelines, and other common
-Markdown files.
+repositories across the entire nlobby4 codebase. It includes reusable resources
+like issue templates, contributing guidelines, and other common Markdown files.
 
 Please check out the other
 [templates](https://github.com/orgs/nlobby4/repositories?q=template%3Atrue+archived%3Afalse)
@@ -88,8 +87,8 @@ There are two ways to use this template:
 ### A. Copy to an Existing Repository
 
 If you already have an existing repository, you can easily copy and paste the
-specific files you need,
-or [download](https://github.com/nlobby4/readme-template/archive/refs/heads/main.zip)
+specific files you need, or
+[download](https://github.com/nlobby4/readme-template/archive/refs/heads/main.zip)
 the repository as a ZIP file.
 
 > [!IMPORTANT]
@@ -111,12 +110,11 @@ page.
 ## Apply These Changes
 
 After adding the template to your project, you will have to make some minor
-adjustments.
-The files include `TODO:` comments with instructions for easy lookup.
-These comments can be removed once you have acknowledged their purpose.
+adjustments. The files include `TODO:` comments with instructions for easy
+lookup. These comments can be removed once you have acknowledged their purpose.
 
-The following table outlines the files you should modify and the
-changes you need to make:
+The following table outlines the files you should modify and the changes you
+need to make:
 
 | File                      | Change                                          |
 | ------------------------- | ----------------------------------------------- |
@@ -151,11 +149,16 @@ changes you need to make:
 <!-- ? ############################################# -->
 <!-- ? References -->
 
-[logo]: https://media.githubusercontent.com/media/nlobby4/organization/refs/heads/main/project/repo/readme/logo-readme.png
-[banner]: https://media.githubusercontent.com/media/nlobby4/organization/refs/heads/main/project/repo/readme/banner-readme.png
-[footer]: https://media.githubusercontent.com/media/nlobby4/organization/refs/heads/main/project/repo/readme/footer-readme.png
+[logo]:
+  https://media.githubusercontent.com/media/nlobby4/organization/refs/heads/main/project/repo/readme/logo-readme.png
+[banner]:
+  https://media.githubusercontent.com/media/nlobby4/organization/refs/heads/main/project/repo/readme/banner-readme.png
+[footer]:
+  https://media.githubusercontent.com/media/nlobby4/organization/refs/heads/main/project/repo/readme/footer-readme.png
 [founded]: https://img.shields.io/badge/founded:2024-black?logo=github
 [npm]: https://img.shields.io/badge/npm%20packages-black?logo=npm&color=000000
-[website]: https://img.shields.io/badge/nlobby4.org-black?logo=firefoxbrowser&logoColor=white&color=000000
-[discord]: https://img.shields.io/badge/discord-black?logo=discord&logoColor=white
+[website]:
+  https://img.shields.io/badge/nlobby4.org-black?logo=firefoxbrowser&logoColor=white&color=000000
+[discord]:
+  https://img.shields.io/badge/discord-black?logo=discord&logoColor=white
 [flockmod]: https://img.shields.io/badge/r/nlobby4-black

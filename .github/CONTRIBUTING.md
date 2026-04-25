@@ -54,8 +54,7 @@ contribution process:
 - **Open a pull request** on GitHub with a clear description of your changes.
 - **Update the PR title** to a
   [conventional commit](https://www.conventionalcommits.org/) message, this will
-  be the squashed commit message when the PR is merged. The description will be
-  included in the next release changelog.
+  be the squashed commit message when the PR is merged.
 - **Keep pull requests focused** to one concern which will make the review
   process faster and easier.
 - **Delete your local branch** after your pull request has been merged to keep

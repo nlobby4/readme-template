@@ -28,6 +28,8 @@ providing feedback and sharing your ideas.
 If you want to contribute, please follow these guidelines to ensure a smooth
 contribution process:
 
+<!-- TODO: Update this section if needed -->
+
 - **Open an issue** to discuss your proposed changes before you start working on
   them. This prevents duplicate work and allows maintainers to provide feedback
   early on.

@@ -25,6 +25,8 @@ providing feedback and sharing your ideas.
 
 ---
 
+## Contribution Workflow
+
 If you want to contribute, please follow these guidelines to ensure a smooth
 contribution process:
 

@@ -32,6 +32,9 @@ This repository is a bare bones template for creating clean and consistent
 repositories across the entire nlobby4 codebase. It includes reusable resources
 like issue templates, contributing guidelines, and other common Markdown files.
 
+This template is intended for repositories that don't fit into any of the more
+specific templates available.
+
 Please check out the other
 [templates](https://github.com/orgs/nlobby4/repositories?q=template%3Atrue+archived%3Afalse)
 first to see if there is already a more specific template that suits your needs.
@@ -116,17 +119,17 @@ lookup. These comments can be removed once you have acknowledged their purpose.
 The following table outlines the files you should modify and the changes you
 need to make:
 
-| File                      | Change                                          |
-| ------------------------- | ----------------------------------------------- |
-| `README.md`               | Update contents                                 |
-| `LICENSE`                 | [Choose a license](https://choosealicense.com/) |
-| `AUTHORS`                 | Add project authors                             |
-| `ARCHITECTURE.md`         | Create the architecture documentation           |
-| `.gitignore`              | Update ignored files to match your project      |
-| `.gitattributes`          | Update line ending settings if needed           |
-| `.github/CODEOWNERS`      | Add code owners                                 |
-| `.github/CONTRIBUTING.md` | Update contribution guidelines if needed        |
-| `.github/ISSUE_TEMPLATES` | Update assignees in every issue template        |
+| File                      | Change                                                  |
+| ------------------------- | ------------------------------------------------------- |
+| `README.md`               | Update contents                                         |
+| `LICENSE`                 | [Choose a license](https://choosealicense.com/)         |
+| `AUTHORS`                 | Add project authors                                     |
+| `ARCHITECTURE.md`         | Create the architecture documentation                   |
+| `.gitignore`              | Update ignored files to match your project              |
+| `.gitattributes`          | Update line ending settings and configure lfs if needed |
+| `.github/CODEOWNERS`      | Add code owners                                         |
+| `.github/CONTRIBUTING.md` | Update contribution guidelines if needed                |
+| `.github/ISSUE_TEMPLATES` | Update assignees in every issue template                |
 
 > [!TIP]
 >

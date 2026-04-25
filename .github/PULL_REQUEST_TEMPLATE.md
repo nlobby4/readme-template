@@ -10,8 +10,6 @@
   - subject: imperative, lowercase start, all caps forbidden, no period, max 72 chars total
 -->
 
-<!-- This description will be included in the next release changelog. -->
-
 # Pull Request Title
 
 ---

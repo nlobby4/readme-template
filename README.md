@@ -119,17 +119,17 @@ lookup. These comments can be removed once you have acknowledged their purpose.
 The following table outlines the files you should modify and the changes you
 need to make:
 
-| File                      | Change                                                  |
-| ------------------------- | ------------------------------------------------------- |
-| `README.md`               | Update contents                                         |
-| `LICENSE`                 | [Choose a license](https://choosealicense.com/)         |
-| `AUTHORS`                 | Add project authors                                     |
-| `ARCHITECTURE.md`         | Create the architecture documentation                   |
-| `.gitignore`              | Update ignored files to match your project              |
-| `.gitattributes`          | Update line ending settings and configure lfs if needed |
-| `.github/CODEOWNERS`      | Add code owners                                         |
-| `.github/CONTRIBUTING.md` | Update contribution guidelines if needed                |
-| `.github/ISSUE_TEMPLATES` | Update assignees in every issue template                |
+| File                      | Change                                                                         |
+| ------------------------- | ------------------------------------------------------------------------------ |
+| `README.md`               | Update contents                                                                |
+| `LICENSE`                 | [Choose a license](https://choosealicense.com/)                                |
+| `AUTHORS`                 | Add project authors                                                            |
+| `ARCHITECTURE.md`         | Create the architecture documentation                                          |
+| `.gitignore`              | [Choose a ignore template](https://github.com/github/gitignore)                |
+| `.gitattributes`          | [Choose a attributes template](https://github.com/gitattributes/gitattributes) |
+| `.github/CODEOWNERS`      | Add code owners                                                                |
+| `.github/CONTRIBUTING.md` | Update contribution guidelines if needed                                       |
+| `.github/ISSUE_TEMPLATES` | Update assignees in every issue template                                       |
 
 > [!TIP]
 >

@@ -105,6 +105,21 @@
 # Exclude files from exporting
 #
 
-.gitattributes export-ignore
-.gitignore     export-ignore
-.gitkeep       export-ignore
+.gitattributes     export-ignore
+.gitignore         export-ignore
+**/.gitkeep        export-ignore
+
+# Repository metadata / dotfiles (root)
+.editorconfig          text eol=lf
+.git-blame-ignore-revs text eol=lf
+.gitattributes         text eol=lf
+.gitignore             text eol=lf
+.mailmap               text eol=lf
+AUTHORS                text eol=lf
+LICENSE                text eol=lf
+
+# GitHub configuration
+.github/CODEOWNERS     text eol=lf
+
+# Keep files (ensure text normalization)
+**/.gitkeep            text eol=lf

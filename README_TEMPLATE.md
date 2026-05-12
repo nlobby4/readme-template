@@ -12,7 +12,7 @@
 
 <a id="readme-top"></a>
 
-<h1 align="center" style="padding-bottom: 0;">
+<h1 align="center">
 
 ![nlobby4][logo]![banner][banner]
 
@@ -32,6 +32,7 @@
 <!-- ? ############################################### -->
 <!-- ? URLs -->
 <!-- markdownlint-disable MD013 -->
+
 <div align="center">
   <span>ⓘ <a href="https://nlobby4.org/news/">[NEWS]</a></span>
   <span> 🖂 <a href="mailto:contact@nlobby4.org">[CONTACT]</a></span>

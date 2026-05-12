@@ -5,14 +5,14 @@
   Shields: https://shields.io/
   Unicode: https://www.amp-what.com/
   Spaces: https://jkorpela.fi/chars/spaces.html
--- >
+-->
 
 <!-- ? ############################################# -->
 <!-- ? Header -->
 
 <a id="readme-top"></a>
 
-<h1 align="center" style="padding-bottom: 0;">
+<h1 align="center">
 
 ![nlobby4][logo]![banner][banner]
 
@@ -26,7 +26,6 @@
 
 <!-- ? ############################################### -->
 <!-- ? Description -->
-<!-- TODO: Create a short repository description -->
 
 This repository is a bare bones template for creating clean and consistent
 repositories across the entire nlobby4 codebase. It includes reusable resources
@@ -43,14 +42,11 @@ first to see if there is already a more specific template that suits your needs.
 <!-- ? URLs -->
 <!-- markdownlint-disable MD013 -->
 
-<!-- TODO: Update the URLs below to match your repository -->
-
 <div align="center">
   <span>ⓘ <a href="https://nlobby4.org/news/">[NEWS]</a></span>
   <span> 🖂 <a href="mailto:contact@nlobby4.org">[CONTACT]</a></span>
-  <span> 🖿 <a href="https://nlobby4.github.io/readme-template/">[DEMO]</a></span>
-  <span> ★ <a href="https://github.com/nlobby4/readme-template/issues/new?template=feature.yml">[REQUEST FEATURE]</a></span>
-  <span> &#x26A0;&#xFE0E; <a href="https://github.com/nlobby4/readme-template/issues/new?template=bug.yml">[REPORT BUG]</a></span>
+  <span> ★ <a href="./issues/new?template=feature.yml">[REQUEST FEATURE]</a></span>
+  <span> &#x26A0;&#xFE0E; <a href="./issues/new?template=bug.yml">[REPORT BUG]</a></span>
 </div>
 
 <br>
@@ -79,9 +75,6 @@ first to see if there is already a more specific template that suits your needs.
 
 <!-- ? ############################################# -->
 <!-- ? Main Area -->
-<!-- TODO: Write your basic readme markdown here -->
-<!-- TODO: Add a "back to top" button and horizontal bar for every section -->
-<!-- TODO: Update the table of contents accordingly -->
 
 ## Usage
 
@@ -90,14 +83,8 @@ There are two ways to use this template:
 ### A. Copy to an Existing Repository
 
 If you already have an existing repository, you can easily copy and paste the
-specific files you need, or
-[download](https://github.com/nlobby4/readme-template/archive/refs/heads/main.zip)
-the repository as a ZIP file.
-
-> [!IMPORTANT]
->
-> Do not clone this repository directly unless you intend to contribute to the
-> template itself.
+specific files you need, or [download](./archive/refs/heads/main.zip) the
+repository as a ZIP file.
 
 ### B. Start a New Repository
 
@@ -106,35 +93,41 @@ creating a new repository within the organization via GitHub. For external
 collaborators, use the **Use this template** button at the top right of this
 page.
 
+> [!IMPORTANT]
+>
+> Do not clone this repository directly unless you intend to contribute to the
+> template itself.
+
 <p align="right">[<a href="#readme-top">back to top</a>]</p>
 
 ---
 
 ## Apply These Changes
 
-After adding the template to your project, you will have to make some minor
-adjustments. The files include `TODO:` comments with instructions for easy
+After using this template to start a new project, you will have to make some
+minor adjustments. The files include `TODO:` comments with instructions for easy
 lookup. These comments can be removed once you have acknowledged their purpose.
 
 The following table outlines the files you should modify and the changes you
 need to make:
 
-| File                      | Change                                                                         |
-| ------------------------- | ------------------------------------------------------------------------------ |
-| `README.md`               | Update contents                                                                |
-| `LICENSE`                 | [Choose a license](https://choosealicense.com/)                                |
-| `AUTHORS`                 | Add project authors                                                            |
-| `ARCHITECTURE.md`         | Create the architecture documentation                                          |
-| `.gitignore`              | [Choose a ignore template](https://github.com/github/gitignore)                |
-| `.gitattributes`          | [Choose a attributes template](https://github.com/gitattributes/gitattributes) |
-| `.github/CODEOWNERS`      | Add code owners                                                                |
-| `.github/CONTRIBUTING.md` | Update contribution guidelines if needed                                       |
-| `.github/ISSUE_TEMPLATES` | Update assignees in every issue template                                       |
+| File                      | Change                                                                          |
+| ------------------------- | ------------------------------------------------------------------------------- |
+| `.github/CODEOWNERS`      | Add code owners                                                                 |
+| `project/.gitignore`      | [Choose an ignore template](https://github.com/github/gitignore)                |
+| `.gitignore`              | Whitelist new configuration files and generated folders                         |
+| `.gitattributes`          | [Choose an attributes template](https://github.com/gitattributes/gitattributes) |
+| `AUTHORS`                 | Add project authors                                                             |
+| `LICENSE`                 | [Choose a license](https://choosealicense.com/)                                 |
+| `ARCHITECTURE.md`         | Maintain a architecture documentation                                           |
+| `README_TEMPLATE.md`      | Use this as the base for your own `README.md`                                   |
 
-> [!TIP]
+> [!NOTE]
 >
-> You can remove the `LICENSE` file if you are setting up a private repository
-> and don't plan on publishing your code.
+> The community markdown files and PR/issue templates are provided by the
+> organizations [.github](https://github.com/nlobby4/.github) repository. If you
+> need to adjust them copy the respective file into the `.github` directory and
+> make the necessary changes.
 
 <p align="right">[<a href="#readme-top">back to top</a>]</p>
 

@@ -13,11 +13,10 @@
 If you need help or have questions about this project, you can reach out through
 the following channels:
 
-- **Issues**: For questions, bugs reports or feature requests, open an issue
+- **Issues**: For questions, bug reports, or feature requests, open an issue
   using the appropriate template.
 - **Email**: [contact@nlobby4.org](mailto:contact@nlobby4.org)
 - **Discord**: [Join our Discord server](https://discord.gg/flockmod/)
-- **Flockmod Inbox**: [flockmod.com](https://flockmod.com/)
 
 For urgent matters or if you are unsure where to ask, refer to the
 [organization members](https://github.com/orgs/nlobby4/people).

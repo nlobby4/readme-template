@@ -1,0 +1,12 @@
+# --------------------------------------------------
+# Project git ignore list.
+#
+# This file lists files and patterns that should
+# not be tracked by git.
+#
+# By extension this file is used to exclude files from
+# tooling and other processes that rely on git to determine
+# which files are part of the project.
+# --------------------------------------------------
+
+# TODO: Add project-specific ignore patterns here

@@ -111,16 +111,17 @@ lookup. These comments can be removed once you have acknowledged their purpose.
 The following table outlines the files you should modify and the changes you
 need to make:
 
-| File                      | Change                                                                          |
-| ------------------------- | ------------------------------------------------------------------------------- |
-| `.github/CODEOWNERS`      | Add code owners                                                                 |
-| `project/.gitignore`      | [Choose an ignore template](https://github.com/github/gitignore)                |
-| `.gitignore`              | Whitelist new configuration files and generated folders                         |
-| `.gitattributes`          | [Choose an attributes template](https://github.com/gitattributes/gitattributes) |
-| `AUTHORS`                 | Add project authors                                                             |
-| `LICENSE`                 | [Choose a license](https://choosealicense.com/)                                 |
-| `ARCHITECTURE.md`         | Maintain a architecture documentation                                           |
-| `README_TEMPLATE.md`      | Use this as the base for your own `README.md`                                   |
+| File                 | Change                                                                          |
+| -------------------- | ------------------------------------------------------------------------------- |
+| `.github/CODEOWNERS` | Add code owners                                                                 |
+| `project/.gitignore` | [Choose an ignore template](https://github.com/github/gitignore)                |
+| `.gitignore`         | Whitelist new configuration files and generated folders                         |
+| `.gitattributes`     | [Choose an attributes template](https://github.com/gitattributes/gitattributes) |
+| `AUTHORS`            | Add project authors                                                             |
+| `LICENSE`            | [Choose a license](https://choosealicense.com/)                                 |
+| `ARCHITECTURE.md`    | Maintain a architecture documentation                                           |
+| `README_TEMPLATE.md` | Use this as the base for your own `README.md`                                   |
+| `.mailmap`           | Alias your flockmod username (Org member only)                                  |
 
 > [!NOTE]
 >

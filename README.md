@@ -120,7 +120,7 @@ need to make:
 | `LICENSE`            | [Choose a license](https://choosealicense.com/)                                 |
 | `ARCHITECTURE.md`    | Maintain a architecture documentation                                           |
 | `README_TEMPLATE.md` | Use this as the base for your own `README.md`                                   |
-| `AUTHORS`            | Add project authors (Org member only)                                           |
+| `AUTHORS`            | Add project maintainers (Org member only)                                       |
 | `.mailmap`           | Alias your flockmod username (Org member only)                                  |
 
 > [!NOTE]

@@ -45,8 +45,8 @@ first to see if there is already a more specific template that suits your needs.
 <div align="center">
   <span>ⓘ <a href="https://nlobby4.org/news/">[NEWS]</a></span>
   <span> 🖂 <a href="mailto:contact@nlobby4.org">[CONTACT]</a></span>
-  <span> ★ <a href="./issues/new?template=feature.yml">[REQUEST FEATURE]</a></span>
-  <span> &#x26A0;&#xFE0E; <a href="./issues/new?template=bug.yml">[REPORT BUG]</a></span>
+  <span> ★ <a href="/issues/new?template=feature.yml">[REQUEST FEATURE]</a></span>
+  <span> &#x26A0;&#xFE0E; <a href="/issues/new?template=bug.yml">[REPORT BUG]</a></span>
 </div>
 
 <br>

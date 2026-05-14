@@ -6,11 +6,12 @@
 # The name and email should match the canonical identity defined in the .mailmap
 # file.
 #
+# This file is intended for organization members only.
+#
 # Add new maintainers below.
 # --------------------------------------------------
 
 # Canonical Name <canonical@email.com> (URL)
 
-# TODO: Organization member only!
-# Update the list of participating organization members
+# TODO:  Update the list of participating organization members
 sphoon <sphoon@nlobby4.org> (https://nlobby4.org)

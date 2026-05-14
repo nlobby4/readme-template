@@ -115,13 +115,13 @@ need to make:
 | -------------------- | ------------------------------------------------------------------------------- |
 | `.github/CODEOWNERS` | Add code owners                                                                 |
 | `project/.gitignore` | [Choose an ignore template](https://github.com/github/gitignore)                |
-| `.gitignore`         | Whitelist new configuration files and generated folders                         |
 | `.gitattributes`     | [Choose an attributes template](https://github.com/gitattributes/gitattributes) |
+| `.gitignore`         | Whitelist new configuration files and generated folders                         |
 | `.mailmap`           | Alias your flockmod username                                                    |
-| `LICENSE`            | [Choose a license](https://choosealicense.com/)                                 |
-| `ARCHITECTURE.md`    | Maintain a architecture documentation                                           |
-| `README_TEMPLATE.md` | Use this as the base for your own `README.md`                                   |
+| `ARCHITECTURE.md`    | Optionally maintain a architecture documentation                                |
 | `AUTHORS`            | Add project maintainers                                                         |
+| `LICENSE`            | [Choose a license](https://choosealicense.com/)                                 |
+| `README_TEMPLATE.md` | Use this as the base for your own `README.md`                                   |
 
 > [!NOTE]
 >

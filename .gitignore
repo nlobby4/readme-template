@@ -13,11 +13,13 @@
 # committed to the repository. The project directory contains its
 # own .gitignore file that is based on the classic blacklist approach.
 #
-# Add files and paths to be tracked by git by adding exceptions:
+# Add files and paths to be tracked by git by adding exceptions,
+# keep in mind to allow starting from the repository root to avoid
+# allowing files provided by dependencies.
 #
-# Add specific file:                        !path/to/file
-# Add all files in a directory:             !path/to/directory/
-# Add all files in a directory recursively: !path/to/directory/**
+# Add specific file:                        !/path/to/file
+# Add all files in a directory:             !/path/to/directory/
+# Add all files in a directory recursively: !/path/to/directory/**
 # --------------------------------------------------
 
 # Deny by default
@@ -27,21 +29,21 @@
 !*/
 
 # Rely on the project-level .gitignore for project files
-!project/**
+!/project/**
 
 # Allow specific root-level files and directories
-!.github/**
-!.vscode/**
-!meta/**
-!.editorconfig
-!.git-blame-ignore-revs
-!.gitattributes
-!.gitignore
-!.mailmap
-!ARCHITECTURE.md
-!AUTHORS
-!CHANGELOG.md
-!LICENSE
-!README_TEMPLATE.md
-!README.md
+!/.editorconfig
+!/.git-blame-ignore-revs
+!/.gitattributes
+!/.gitignore
+!/.mailmap
+!/.github/**
+!/.vscode/**
+!/meta/**
+!/README_TEMPLATE.md
+!/ARCHITECTURE.md
+!/AUTHORS
+!/LICENSE
+!/CHANGELOG.md
+!/README.md
 # TODO: Allow other root-level files as needed

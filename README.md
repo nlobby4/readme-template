@@ -28,8 +28,8 @@
 <!-- ? Description -->
 
 This repository is a bare bones template for creating clean and consistent
-repositories across the entire nlobby4 codebase. It includes reusable resources
-like issue templates, contributing guidelines, and other common Markdown files.
+repositories across the entire nlobby4 codebase. It includes generic files
+required for any nlobby4 repository.
 
 This template is intended for repositories that don't fit into any of the more
 specific templates available.
@@ -117,17 +117,17 @@ need to make:
 | `project/.gitignore` | [Choose an ignore template](https://github.com/github/gitignore)                |
 | `.gitignore`         | Whitelist new configuration files and generated folders                         |
 | `.gitattributes`     | [Choose an attributes template](https://github.com/gitattributes/gitattributes) |
+| `.mailmap`           | Alias your flockmod username                                                    |
 | `LICENSE`            | [Choose a license](https://choosealicense.com/)                                 |
 | `ARCHITECTURE.md`    | Maintain a architecture documentation                                           |
 | `README_TEMPLATE.md` | Use this as the base for your own `README.md`                                   |
-| `AUTHORS`            | Add project maintainers (Org member only)                                       |
-| `.mailmap`           | Alias your flockmod username (Org member only)                                  |
+| `AUTHORS`            | Add project maintainers                                                         |
 
 > [!NOTE]
 >
 > The community markdown files and PR/issue templates are provided by the
 > organizations [.github](https://github.com/nlobby4/.github) repository. If you
-> need to adjust them copy the respective file into the `.github` directory and
+> need to adjust them, copy the respective file into the `.github` directory and
 > make the necessary changes.
 
 <p align="right">[<a href="#readme-top">back to top</a>]</p>

@@ -118,10 +118,11 @@ need to make:
 | `.gitattributes`     | [Choose an attributes template](https://github.com/gitattributes/gitattributes) |
 | `.gitignore`         | Whitelist new configuration files and generated folders                         |
 | `.mailmap`           | Alias your flockmod username                                                    |
-| `ARCHITECTURE.md`    | Optionally maintain a architecture documentation                                |
 | `AUTHORS`            | Add project maintainers                                                         |
 | `LICENSE`            | [Choose a license](https://choosealicense.com/)                                 |
 | `README_TEMPLATE.md` | Use this as the base for your own `README.md`                                   |
+| `ARCHITECTURE.md`    | Optionally maintain a architecture documentation                                |
+| `CHANGELOG.md`       | Optionally maintain a changelog                                                 |
 
 > [!NOTE]
 >

@@ -119,3 +119,4 @@
 .editorconfig          text eol=lf
 AUTHORS                text eol=lf
 LICENSE                text eol=lf
+# TODO: Add more files as needed

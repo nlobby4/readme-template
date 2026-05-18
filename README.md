@@ -121,8 +121,6 @@ need to make:
 | `AUTHORS`            | Add project maintainers                                                         |
 | `LICENSE`            | [Choose a license](https://choosealicense.com/)                                 |
 | `README_TEMPLATE.md` | Use this as the base for your own `README.md`                                   |
-| `ARCHITECTURE.md`    | Optionally maintain a architecture documentation                                |
-| `CHANGELOG.md`       | Optionally maintain a changelog                                                 |
 
 > [!NOTE]
 >

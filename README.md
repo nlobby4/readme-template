@@ -83,7 +83,7 @@ There are two ways to use this template:
 ### A. Copy to an Existing Repository
 
 If you already have an existing repository, you can easily copy and paste the
-specific files you need, or [download](../archive/refs/heads/main.zip) the
+specific files you need, or [download](../../archive/refs/heads/main.zip) the
 repository as a ZIP file.
 
 ### B. Start a New Repository

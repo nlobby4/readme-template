@@ -19,7 +19,7 @@
 [![founded][founded]](https://github.com/nlobby4)
 [![npm][npm]](https://www.npmjs.com/org/nlobby4)
 [![website][website]](https://nlobby4.org)
-[![discord][discord]](https://discord.gg/flockmod/)
+[![discord][discord]](https://discord.gg/flockmod)
 [![flockmod][flockmod]](https://flockmod.com/r/nlobby4)
 
 </h1>
@@ -145,16 +145,11 @@ need to make:
 <!-- ? ############################################# -->
 <!-- ? References -->
 
-[logo]:
-  https://media.githubusercontent.com/media/nlobby4/organization/refs/heads/main/project/repo/readme/logo-readme.png
-[banner]:
-  https://media.githubusercontent.com/media/nlobby4/organization/refs/heads/main/project/repo/readme/banner-readme.png
-[footer]:
-  https://media.githubusercontent.com/media/nlobby4/organization/refs/heads/main/project/repo/readme/footer-readme.png
+[logo]: https://media.githubusercontent.com/media/nlobby4/organization/refs/heads/main/project/repo/readme/logo-readme.png
+[banner]: https://media.githubusercontent.com/media/nlobby4/organization/refs/heads/main/project/repo/readme/banner-readme.png
+[footer]: https://media.githubusercontent.com/media/nlobby4/organization/refs/heads/main/project/repo/readme/footer-readme.png
 [founded]: https://img.shields.io/badge/founded:2024-black?logo=github
 [npm]: https://img.shields.io/badge/npm%20packages-black?logo=npm&color=000000
-[website]:
-  https://img.shields.io/badge/nlobby4.org-black?logo=firefoxbrowser&logoColor=white&color=000000
-[discord]:
-  https://img.shields.io/badge/discord-black?logo=discord&logoColor=white
+[website]: https://img.shields.io/badge/nlobby4.org-black?logo=firefoxbrowser&logoColor=white&color=000000
+[discord]: https://img.shields.io/badge/discord-black?logo=discord&logoColor=white
 [flockmod]: https://img.shields.io/badge/r/nlobby4-black

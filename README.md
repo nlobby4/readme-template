@@ -45,8 +45,8 @@ first to see if there is already a more specific template that suits your needs.
 <div align="center">
   <span>ⓘ <a href="https://nlobby4.org/news/">[NEWS]</a></span>
   <span> 🖂 <a href="mailto:contact@nlobby4.org">[CONTACT]</a></span>
-  <span> ★ <a href="../../issues/new?template=feature.yml">[REQUEST FEATURE]</a></span>
-  <span> &#x26A0;&#xFE0E; <a href="../../issues/new?template=bug.yml">[REPORT BUG]</a></span>
+  <span> ★ <a href="https://github.com/nlobby4/readme-template/issues/new?template=feature.yml">[REQUEST FEATURE]</a></span>
+  <span> &#x26A0;&#xFE0E; <a href="https://github.com/nlobby4/readme-template/issues/new?template=bug.yml">[REPORT BUG]</a></span>
 </div>
 
 <br>
@@ -145,11 +145,16 @@ need to make:
 <!-- ? ############################################# -->
 <!-- ? References -->
 
-[logo]: https://media.githubusercontent.com/media/nlobby4/organization/refs/heads/main/project/repo/readme/logo-readme.png
-[banner]: https://media.githubusercontent.com/media/nlobby4/organization/refs/heads/main/project/repo/readme/banner-readme.png
-[footer]: https://media.githubusercontent.com/media/nlobby4/organization/refs/heads/main/project/repo/readme/footer-readme.png
+[logo]:
+  https://media.githubusercontent.com/media/nlobby4/organization/refs/heads/main/project/repo/readme/logo-readme.png
+[banner]:
+  https://media.githubusercontent.com/media/nlobby4/organization/refs/heads/main/project/repo/readme/banner-readme.png
+[footer]:
+  https://media.githubusercontent.com/media/nlobby4/organization/refs/heads/main/project/repo/readme/footer-readme.png
 [founded]: https://img.shields.io/badge/founded:2024-black?logo=github
 [npm]: https://img.shields.io/badge/npm%20packages-black?logo=npm&color=000000
-[website]: https://img.shields.io/badge/nlobby4.org-black?logo=firefoxbrowser&logoColor=white&color=000000
-[discord]: https://img.shields.io/badge/discord-black?logo=discord&logoColor=white
+[website]:
+  https://img.shields.io/badge/nlobby4.org-black?logo=firefoxbrowser&logoColor=white&color=000000
+[discord]:
+  https://img.shields.io/badge/discord-black?logo=discord&logoColor=white
 [flockmod]: https://img.shields.io/badge/r/nlobby4-black

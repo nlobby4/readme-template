@@ -1,5 +1,5 @@
 # media/
 
-This folder is reserved for repository assets such as images, diagrams, and
-other media used by Markdown files when those resources aren’t hosted
-externally.
+This folder is reserved for repository-owned media assets, such as screenshots,
+diagrams, generated images, and other binary files used by documentation or
+project pages.

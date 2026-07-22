@@ -38,7 +38,7 @@
 !/.editorconfig
 !/.git-blame-ignore-revs
 !/.gitattributes
-!/.gitignore
+!/*.*ignore
 !/.mailmap
 !/.github/**
 !/.vscode/**

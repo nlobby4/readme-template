@@ -13,7 +13,6 @@
 # by using the `export-ignore` attribute.
 #
 # For more information, see:
-# https://git-lfs.com/
 # https://git-scm.com/docs/gitattributes#_end_of_line_conversion
 # https://github.com/gitattributes/gitattributes
 # https://richienb.github.io/gitattributes-generator/
@@ -102,6 +101,9 @@
 *.Z        binary
 *.zip      binary
 *.zst      binary
+
+# Ignore files
+*.*ignore         text eol=lf
 
 # --------------------------------------------------
 # Custom Rules
